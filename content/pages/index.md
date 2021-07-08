@@ -4,10 +4,19 @@ sections:
   - type: hero_section
     title: One Week To Certification
     subtitle: Your guided pathway to get your certificate in 5 days
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
+    content: >
+      This course is your go-to guide to get AWS Cloud Practitioner Ready in One
+      Week. Learn how to
+
       create effective landing pages, compelling ads, creative copywriting and
+
       converting marketing materials for any business.
+
+
+      You will learn about AWS Cloud concepts, AWS services, security,
+      architecture, pricing, and support to build your AWS Cloud knowledge. This
+      course also helps you prepare for the AWS Certified Cloud Practitioner
+      exam.
     actions:
       - label: Get the book
         url: /pricing

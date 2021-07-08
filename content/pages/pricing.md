@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Revision Notes
+      - title: Guided Pathway
         subtitle: For college students and educators
         title_align: left
         content: |-

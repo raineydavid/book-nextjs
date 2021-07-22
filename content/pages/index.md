@@ -240,7 +240,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: One Week Bookcamp
-  description: The preview of the Book theme
+  description: The preview of  One Wek
   extra:
     - name: 'og:type'
       value: website

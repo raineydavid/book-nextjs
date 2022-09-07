@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Book Theme",
+    "title": "Waist Training",
     "path_prefix": "/",
     "layout_type": "boxed",
     "style": "classic",
@@ -7,9 +7,9 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "Marketing Playbook",
+        "title": "Waist Training Playbook",
         "logo": "images/logo.svg",
-        "logo_alt": "Marketing Playbook logo",
+        "logo_alt": "Waist Training Playbook logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
@@ -31,7 +31,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Start Learning",
+                "label": "Start Training",
                 "url": "/thank-you",
                 "style": "primary"
             }
@@ -122,11 +122,11 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=book&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Waist Training. All rights reserved. This Jamstack site was created with <a href=\"https://www.womencancode.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=book&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_content": "The next waist training plan is starting on 12 September. **[Learn More](/pricing/)**",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,

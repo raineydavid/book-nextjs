@@ -2,21 +2,20 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Marketing Tricks No MBA Can Teach You
-    subtitle: Your guide to B2B marketing in the real world.
+    title: The Waist Training Tricks That Worked For Me
+    subtitle: Your 30 day guide to Waist Training.
     content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+      This plan is your daily activity planner to help with your waist.  It is also your go-to guide for all things to help you get the waist you want. Learn about food and drink,
+      the types of waist you might have, check your vital statistics,  exercises to train your waist, massages clothing aids and also surgery options .
     actions:
-      - label: Get the book
+      - label: Join the Course
         url: /pricing
         style: primary
         has_icon: true
         icon: arrow-right
         icon_position: right
-    image: images/marketing-playbook.png
-    image_alt: Marketing Playbook preview
+    image: images/waist-playbook.png
+    image_alt: Waist Playbook preview
     media_position: left
     media_width: fourty
     align: left
@@ -24,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    title: 'Read by marketers at:'
+    title: 'Tested by women at:'
     align: center
     grid_items:
       - image: images/logo-1.svg
@@ -54,9 +53,9 @@ sections:
   - type: features_section
     features:
       - title: What’s Inside
-        subtitle: How this book will teach you real world marketing
+        subtitle: How this plan will help you with your waist
         content: |-
-          - All you need to know about PPC
+          - All you need to know about your waist
           - How to create a brand that sells
           - Putting together a multi-channel marketing plan
           - Tracking, attribution and analytics
@@ -64,14 +63,14 @@ sections:
           - Marketing ads no one can ignore
           - The social media of today
         actions:
-          - label: Start learning
-            url: /thank-you
+          - label: Start training
+            url: /pricing
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/book-inside.png
-        image_alt: Look inside Marketing Playbook
+        image: images/waist-after.png
+        image_alt: Look inside Women Training Playbook
         media_position: right
         media_width: fifty
     feature_padding_vert: small
@@ -80,7 +79,7 @@ sections:
   - type: features_section
     features:
       - title: |-
-          “This book is inspiring and practical. It’s thought-provoking and full
+          “This plan is inspiring and practical. It’s thought-provoking and full
           of examples which definitely motivates me”
         subtitle: |-
           Hilary Ouse, Sr. Marketing Manager at Company
@@ -103,11 +102,11 @@ sections:
           Discovery, research and pure intuition: How to slice and dice all the
           information you can gather about your customers.
       - content: |-
-          ### Performance Marketing
+          ### Performance Training
 
           Know your PPC from your CPA and CTR — a quick start guide to performance marketing channels, setups, budgeting and creative.
       - content: |-
-          ### The Truth About Branding
+          ### The Truth About Waists
 
           A brand is merely a collection of touchpoints between your company and
           your customers. Learn how to make those interactions count.
@@ -151,7 +150,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/book-inside-2.png
+        image: images/course-inside-2.png
         image_alt: Look inside Marketing Playbook
         media_position: left
         media_width: fifty
@@ -159,28 +158,28 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Who Should Read This Book?
+    title: Who Should Join This Program?
     grid_items:
       - content: |-
-          #### Marketers
+          #### Training Schedule
            - Learn how all of the marketing pieces fit together
            - Master digital marketing for any business
            - Get access to marketing gurus and their tips
            - Prepare killer presentations and collateral
       - content: |-
-          #### Designers
+          #### Community
            - Gain big picture insights that affect design
            - Learn how your design can inspire action
            - Make advertisements that convert
            - Create digital assets for the right audience
       - content: |-
-          #### Business owners
+          #### Reminders
            - Kickstart your marketing plan and efforts
            - Upgrade your brand, website and social media
            - Prepare effective collateral for your business
            - Start advertising your company online
       - content: |-
-          #### Product managers
+          #### Resources
            - Understand the context of your product work
            - Learn how to segment your audience properly
            - Implement brand voice and style in your work
@@ -238,30 +237,30 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit Book Theme
-  description: The preview of the Book theme
+  title: Waist Training Course
+  description: The waist training course
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Stackbit Book Theme
+      value: The waist training course
       keyName: property
     - name: og:description
-      value: The preview of the Book theme
+      value: The waist training course
       keyName: property
     - name: og:image
-      value: images/book-preview.png
+      value: images/course-preview.png
       keyName: property
       relativeUrl: true
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Stackbit Book Theme
+      value: The waist training course
     - name: twitter:description
-      value: The preview of the Book theme
+      value: The waist training course
     - name: twitter:image
-      value: images/book-preview.png
+      value: images/course-preview.png
       relativeUrl: true
 layout: advanced
 ---

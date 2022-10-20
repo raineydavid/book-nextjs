@@ -2,8 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: The Waist Training Tricks That Worked For Me
-    subtitle: Your 30 day guide to Waist Training.
+    title: Your 30 day guide to Waist Training.
+    subtitle: The Waist Training Tricks That Worked For Me.
     content: |-
       This plan is your daily activity planner to help with your waist.  It is also your go-to guide for all things to help you get the waist you want. Learn about food and drink,
       the types of waist you might have, check your vital statistics,  exercises to train your waist, massages clothing aids and also surgery options .
